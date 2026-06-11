@@ -1,0 +1,616 @@
+[
+  {
+    "ad_id": "3208353856",
+    "title": "Appartement 4 pièces 85 m²",
+    "description": null,
+    "ad_type": "offer",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3208353856",
+    "price": 765440,
+    "price_currency": "EUR",
+    "price_cents": 76544000,
+    "old_price": null,
+    "price_dropped": false,
+    "monthly_price": null,
+    "category": "Ventes immobilières",
+    "category_id": "9",
+    "subcategory": null,
+    "location_city": "Paris",
+    "location_region": "Ile-de-France",
+    "location_region_id": "12",
+    "location_department": "Paris",
+    "location_department_id": "75",
+    "location_zipcode": "75012",
+    "location_lat": 48.838024,
+    "location_lng": 2.4022849,
+    "location_source": "city",
+    "published_date": "2026-06-01 02:22:28",
+    "index_date": "2026-06-06 11:03:43",
+    "expiration_date": null,
+    "owner_type": "pro",
+    "owner_name": "JACQUES DE CARNE",
+    "owner_store_id": "67363637",
+    "owner_user_id": "b68cd57b-ff43-4523-9bdf-b28317e628d1",
+    "owner_siren": "502237423",
+    "has_phone": true,
+    "images": [
+      "https://img.leboncoin.fr/api/v1/lbcpb1/images/62/fa/1d/62fa1d32f0129d86470e201c60eb94fca70f5b74.jpg?rule=ad-large",
+      "https://img.leboncoin.fr/api/v1/lbcpb1/images/c3/e3/10/c3e3103c490d130e985ddcccae37727ae3101742.jpg?rule=ad-large",
+      "https://img.leboncoin.fr/api/v1/lbcpb1/images/6c/e8/67/6ce867d391135906a0cee34a167e003c5dadf938.jpg?rule=ad-large",
+      "https://img.leboncoin.fr/api/v1/lbcpb1/images/98/73/b4/9873b4ee09d580c3e78e3d5314b8082efb3b763e.jpg?rule=ad-large",
+      "https://img.leboncoin.fr/api/v1/lbcpb1/images/87/a5/ac/87a5ac17bde5d7f70a98bd2a3286e6990e37fb35.jpg?rule=ad-large",
+      "https://img.leboncoin.fr/api/v1/lbcpb1/images/b8/d3/87/b8d38710b7b9131e360201f3ac84f954099723e4.jpg?rule=ad-large",
+      "https://img.leboncoin.fr/api/v1/lbcpb1/images/55/3a/84/553a84359b271079c4257683da8a1f7d83da8f77.jpg?rule=ad-large",
+      "https://img.leboncoin.fr/api/v1/lbcpb1/images/d8/e0/ad/d8e0ad7f0dac580efe8e5d96f3d385d9ae9c9264.jpg?rule=ad-large",
+      "https://img.leboncoin.fr/api/v1/lbcpb1/images/aa/79/14/aa7914a0379fbfb7279ffda455a976032b9c765a.jpg?rule=ad-large"
+    ],
+    "image_count": 9,
+    "thumbnail": "https://img.leboncoin.fr/api/v1/lbcpb1/images/62/fa/1d/62fa1d32f0129d86470e201c60eb94fca70f5b74.jpg?rule=ad-thumb",
+    "attributes": [
+      {
+        "key": "activity_sector",
+        "value": "2",
+        "value_label": "2"
+      },
+      {
+        "key": "external_ad_id",
+        "value": "ubiflow_530555960",
+        "value_label": "ubiflow_530555960"
+      },
+      {
+        "key": "real_estate_type",
+        "value": "2",
+        "value_label": "Appartement"
+      },
+      {
+        "key": "square",
+        "value": "85",
+        "value_label": "85 m²"
+      },
+      {
+        "key": "rooms",
+        "value": "4",
+        "value_label": "4"
+      },
+      {
+        "key": "bedrooms",
+        "value": "2",
+        "value_label": "2 ch."
+      },
+      {
+        "key": "energy_rate",
+        "value": "d",
+        "value_label": "D"
+      },
+      {
+        "key": "ges",
+        "value": "d",
+        "value_label": "D"
+      },
+      {
+        "key": "heating_mode",
+        "value": "gas",
+        "value_label": "Gaz"
+      },
+      {
+        "key": "floor_number",
+        "value": "5",
+        "value_label": "5"
+      },
+      {
+        "key": "elevator",
+        "value": "1",
+        "value_label": "Oui"
+      },
+      {
+        "key": "fees_at_the_expanse_of",
+        "value": "buyer",
+        "value_label": "Acquéreur"
+      },
+      {
+        "key": "negotiating_fees_percentage",
+        "value": "4",
+        "value_label": "4 %"
+      },
+      {
+        "key": "fai_included",
+        "value": "1",
+        "value_label": "Oui"
+      },
+      {
+        "key": "district_id",
+        "value": "3000249",
+        "value_label": "3000249"
+      },
+      {
+        "key": "district_visibility",
+        "value": "true",
+        "value_label": "true"
+      },
+      {
+        "key": "district_type_id",
+        "value": "9",
+        "value_label": "9"
+      },
+      {
+        "key": "district_resolution_type",
+        "value": "integration_flux",
+        "value_label": "integration_flux"
+      },
+      {
+        "key": "mandate_type",
+        "value": "simple",
+        "value_label": "simple"
+      },
+      {
+        "key": "has_visibility_option",
+        "value": "true",
+        "value_label": "true"
+      },
+      {
+        "key": "visibility_option_products",
+        "value": "RE_VISIBILITY_FEATURE",
+        "value_label": "RE_VISIBILITY_FEATURE"
+      },
+      {
+        "key": "store_logo",
+        "value": "https://img.leboncoin.fr/api/v1/lbcpb1/images/e1/5a/31/e15a311e-20bf-4724-a4ba-83238f8111eb?rule=bo-thumb",
+        "value_label": "https://img.leboncoin.fr/api/v1/lbcpb1/images/e1/5a/31/e15a311e-20bf-4724-a4ba-83238f8111eb?rule=bo-thumb"
+      },
+      {
+        "key": "store_name",
+        "value": "Jacques de Carné Immobilier",
+        "value_label": "Jacques de Carné Immobilier"
+      },
+      {
+        "key": "online_store_id",
+        "value": "3549521",
+        "value_label": "3549521"
+      },
+      {
+        "key": "price_per_square_meter",
+        "value": "9005",
+        "value_label": "9005"
+      },
+      {
+        "key": "estimated_notary_fees",
+        "value": "58880",
+        "value_label": "58880 €"
+      },
+      {
+        "key": "estimated_total_property_price",
+        "value": "824320",
+        "value_label": "824320 €"
+      },
+      {
+        "key": "price_except_fees",
+        "value": "736000",
+        "value_label": "736000 €"
+      },
+      {
+        "key": "fees_price",
+        "value": "29440",
+        "value_label": "29440 €"
+      },
+      {
+        "key": "annual_energy_budget_min",
+        "value": "1320",
+        "value_label": "1320 €"
+      },
+      {
+        "key": "annual_energy_budget_max",
+        "value": "1830",
+        "value_label": "1830 €"
+      },
+      {
+        "key": "custom_ref",
+        "value": "JDC20856",
+        "value_label": "JDC20856"
+      },
+      {
+        "key": "immo_sell_type",
+        "value": "old",
+        "value_label": "old"
+      },
+      {
+        "key": "is_import",
+        "value": "true",
+        "value_label": "true"
+      },
+      {
+        "key": "lease_type",
+        "value": "sell",
+        "value_label": "sell"
+      }
+    ],
+    "attributes_map": {
+      "activity_sector": "2",
+      "external_ad_id": "ubiflow_530555960",
+      "real_estate_type": "2",
+      "square": "85",
+      "rooms": "4",
+      "bedrooms": "2",
+      "energy_rate": "d",
+      "ges": "d",
+      "heating_mode": "gas",
+      "floor_number": "5",
+      "elevator": "1",
+      "fees_at_the_expanse_of": "buyer",
+      "negotiating_fees_percentage": "4",
+      "fai_included": "1",
+      "district_id": "3000249",
+      "district_visibility": "true",
+      "district_type_id": "9",
+      "district_resolution_type": "integration_flux",
+      "mandate_type": "simple",
+      "has_visibility_option": "true",
+      "visibility_option_products": "RE_VISIBILITY_FEATURE",
+      "store_logo": "https://img.leboncoin.fr/api/v1/lbcpb1/images/e1/5a/31/e15a311e-20bf-4724-a4ba-83238f8111eb?rule=bo-thumb",
+      "store_name": "Jacques de Carné Immobilier",
+      "online_store_id": "3549521",
+      "price_per_square_meter": "9005",
+      "estimated_notary_fees": "58880",
+      "estimated_total_property_price": "824320",
+      "price_except_fees": "736000",
+      "fees_price": "29440",
+      "annual_energy_budget_min": "1320",
+      "annual_energy_budget_max": "1830",
+      "custom_ref": "JDC20856",
+      "immo_sell_type": "old",
+      "is_import": "true",
+      "lease_type": "sell"
+    },
+    "real_estate_type": "2",
+    "surface_m2": 85,
+    "rooms": 4,
+    "bedrooms": 2,
+    "energy_rate": "d",
+    "ges": "d",
+    "vehicle_brand": null,
+    "vehicle_model": null,
+    "mileage": null,
+    "fuel": null,
+    "gearbox": null,
+    "registration_year": null,
+    "urgency_level": 0,
+    "is_boosted": false,
+    "status": "active",
+    "search_text": "vélo",
+    "search_location": null,
+    "page_number": 1,
+    "source": "searchData.ads",
+    "parse_confidence": 1,
+    "warnings": [],
+    "scraped_at": "2026-06-11T16:54:05.553712+00:00"
+  },
+  {
+    "ad_id": "3102511279",
+    "title": "Appartement - 4 pièces - Marignier à 5 minutes de la gare",
+    "description": null,
+    "ad_type": "offer",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3102511279",
+    "price": 418000,
+    "price_currency": "EUR",
+    "price_cents": 41800000,
+    "old_price": null,
+    "price_dropped": false,
+    "monthly_price": null,
+    "category": "Ventes immobilières",
+    "category_id": "9",
+    "subcategory": null,
+    "location_city": "Marignier",
+    "location_region": "Rhône-Alpes",
+    "location_region_id": "22",
+    "location_department": "Haute-Savoie",
+    "location_department_id": "74",
+    "location_zipcode": "74970",
+    "location_lat": 46.08988,
+    "location_lng": 6.4983754,
+    "location_source": "city",
+    "published_date": "2025-11-28 20:49:39",
+    "index_date": "2026-05-29 18:15:58",
+    "expiration_date": null,
+    "owner_type": "pro",
+    "owner_name": "MEDICIS IMMOBILIER NEUF",
+    "owner_store_id": "50673463",
+    "owner_user_id": "f851c897-d00b-4ae4-8fa8-4b27da12e046",
+    "owner_siren": "938224672",
+    "has_phone": true,
+    "images": [
+      "https://img.leboncoin.fr/api/v1/lbcpb1/images/ca/c8/8d/cac88d8d08956bc8ca08641c5e12a9505ef14334.jpg?rule=ad-large",
+      "https://img.leboncoin.fr/api/v1/lbcpb1/images/gh/78/92/gh7892965178f8d1220afd99999af3c7b7668894.jpg?rule=ad-large",
+      "https://img.leboncoin.fr/api/v1/lbcpb1/images/16/6c/3a/166c3a475712712b2aaf5c2487ba89fe375b59a2.jpg?rule=ad-large",
+      "https://img.leboncoin.fr/api/v1/lbcpb1/images/3e/f6/e6/3ef6e67a29a1e29bc116b567b36a96b8d279fcbf.jpg?rule=ad-large"
+    ],
+    "image_count": 4,
+    "thumbnail": "https://img.leboncoin.fr/api/v1/lbcpb1/images/ca/c8/8d/cac88d8d08956bc8ca08641c5e12a9505ef14334.jpg?rule=ad-thumb",
+    "attributes": [
+      {
+        "key": "activity_sector",
+        "value": "2",
+        "value_label": "2"
+      },
+      {
+        "key": "external_ad_id",
+        "value": "lbcin_P257984",
+        "value_label": "lbcin_P257984"
+      },
+      {
+        "key": "has_variation",
+        "value": "true",
+        "value_label": "true"
+      },
+      {
+        "key": "real_estate_type",
+        "value": "2",
+        "value_label": "Appartement"
+      },
+      {
+        "key": "square",
+        "value": "94",
+        "value_label": "94 m²"
+      },
+      {
+        "key": "rooms",
+        "value": "4",
+        "value_label": "4"
+      },
+      {
+        "key": "available_date",
+        "value": "01/04/2027",
+        "value_label": "01/04/2027"
+      },
+      {
+        "key": "fai_included",
+        "value": "2",
+        "value_label": "Non"
+      },
+      {
+        "key": "district_id",
+        "value": "74164",
+        "value_label": "74164"
+      },
+      {
+        "key": "district_visibility",
+        "value": "false",
+        "value_label": "false"
+      },
+      {
+        "key": "district_type_id",
+        "value": "2",
+        "value_label": "2"
+      },
+      {
+        "key": "district_resolution_type",
+        "value": "integration",
+        "value_label": "integration"
+      },
+      {
+        "key": "is_preview_program",
+        "value": "2",
+        "value_label": "2"
+      },
+      {
+        "key": "price_per_square_meter",
+        "value": "4447",
+        "value_label": "4447"
+      },
+      {
+        "key": "custom_ref",
+        "value": "40320",
+        "value_label": "40320"
+      },
+      {
+        "key": "immo_sell_type",
+        "value": "new",
+        "value_label": "Neuf"
+      },
+      {
+        "key": "rec_project_status",
+        "value": "ongoing_marketing",
+        "value_label": "ongoing_marketing"
+      },
+      {
+        "key": "rec_project_delivery_date",
+        "value": "2027-04-01",
+        "value_label": "2027-04-01"
+      },
+      {
+        "key": "rec_lot_group_size",
+        "value": "1",
+        "value_label": "1"
+      },
+      {
+        "key": "new_seller_type",
+        "value": "realestate_promoter",
+        "value_label": "realestate_promoter"
+      },
+      {
+        "key": "is_import",
+        "value": "true",
+        "value_label": "true"
+      },
+      {
+        "key": "lease_type",
+        "value": "sell",
+        "value_label": "sell"
+      }
+    ],
+    "attributes_map": {
+      "activity_sector": "2",
+      "external_ad_id": "lbcin_P257984",
+      "has_variation": "true",
+      "real_estate_type": "2",
+      "square": "94",
+      "rooms": "4",
+      "available_date": "01/04/2027",
+      "fai_included": "2",
+      "district_id": "74164",
+      "district_visibility": "false",
+      "district_type_id": "2",
+      "district_resolution_type": "integration",
+      "is_preview_program": "2",
+      "price_per_square_meter": "4447",
+      "custom_ref": "40320",
+      "immo_sell_type": "new",
+      "rec_project_status": "ongoing_marketing",
+      "rec_project_delivery_date": "2027-04-01",
+      "rec_lot_group_size": "1",
+      "new_seller_type": "realestate_promoter",
+      "is_import": "true",
+      "lease_type": "sell"
+    },
+    "real_estate_type": "2",
+    "surface_m2": 94,
+    "rooms": 4,
+    "bedrooms": null,
+    "energy_rate": null,
+    "ges": null,
+    "vehicle_brand": null,
+    "vehicle_model": null,
+    "mileage": null,
+    "fuel": null,
+    "gearbox": null,
+    "registration_year": null,
+    "urgency_level": 0,
+    "is_boosted": false,
+    "status": "active",
+    "search_text": "vélo",
+    "search_location": null,
+    "page_number": 1,
+    "source": "searchData.ads",
+    "parse_confidence": 1,
+    "warnings": [],
+    "scraped_at": "2026-06-11T16:54:05.553712+00:00"
+  },
+  {
+    "ad_id": "3191591687",
+    "title": "Vélo",
+    "description": null,
+    "ad_type": "offer",
+    "url": "https://www.leboncoin.fr/ad/sport_plein_air/3191591687",
+    "price": 70,
+    "price_currency": "EUR",
+    "price_cents": 7000,
+    "old_price": null,
+    "price_dropped": false,
+    "monthly_price": null,
+    "category": "Sport & Plein air",
+    "category_id": "29",
+    "subcategory": null,
+    "location_city": "Saint-Étienne",
+    "location_region": "Rhône-Alpes",
+    "location_region_id": "22",
+    "location_department": "Loire",
+    "location_department_id": "42",
+    "location_zipcode": "42000",
+    "location_lat": 45.43988,
+    "location_lng": 4.39526,
+    "location_source": "city",
+    "published_date": "2026-05-04 16:31:40",
+    "index_date": "2026-06-10 19:04:49",
+    "expiration_date": null,
+    "owner_type": "private",
+    "owner_name": "hondo",
+    "owner_store_id": "87452868",
+    "owner_user_id": "5966c492-3d30-4b68-bd54-512b615ab182",
+    "owner_siren": null,
+    "has_phone": false,
+    "images": [
+      "https://img.leboncoin.fr/api/v1/lbcpb1/images/a6/56/df/a656df644ee3d37b159fb6db4297a3c7244f6507.jpg?rule=ad-large"
+    ],
+    "image_count": 1,
+    "thumbnail": "https://img.leboncoin.fr/api/v1/lbcpb1/images/a6/56/df/a656df644ee3d37b159fb6db4297a3c7244f6507.jpg?rule=ad-thumb",
+    "attributes": [
+      {
+        "key": "profile_picture_url",
+        "value": "https://img.leboncoin.fr/api/v1/tenants/9a6387a1-6259-4f2c-a887-7e67f23dd4cb/domains/20bda58f-d650-462e-a72a-a5a7ecf2bf88/buckets/21d2b0bc-e54c-4b64-a30b-89127b18b785/images/profile/pictures/default/9d649b15-dca3-52d8-9735-edaa7db4e401?rule=pp-small",
+        "value_label": "https://img.leboncoin.fr/api/v1/tenants/9a6387a1-6259-4f2c-a887-7e67f23dd4cb/domains/20bda58f-d650-462e-a72a-a5a7ecf2bf88/buckets/21d2b0bc-e54c-4b64-a30b-89127b18b785/images/profile/pictures/default/9d649b15-dca3-52d8-9735-edaa7db4e401?rule=pp-small"
+      },
+      {
+        "key": "estimated_parcel_weight",
+        "value": "2337",
+        "value_label": "2337"
+      },
+      {
+        "key": "estimated_parcel_size",
+        "value": "M",
+        "value_label": "M"
+      },
+      {
+        "key": "is_bundleable",
+        "value": "true",
+        "value_label": "true"
+      },
+      {
+        "key": "purchase_cta_visible",
+        "value": "true",
+        "value_label": "true"
+      },
+      {
+        "key": "negotiation_cta_visible",
+        "value": "true",
+        "value_label": "true"
+      },
+      {
+        "key": "country_isocode3166",
+        "value": "FR",
+        "value_label": "FR"
+      },
+      {
+        "key": "condition",
+        "value": "tresbonetat",
+        "value_label": "Très bon état"
+      },
+      {
+        "key": "shipping_type",
+        "value": "mondial_relay, shop2shop, colissimo, face_to_face",
+        "value_label": "mondial_relay"
+      },
+      {
+        "key": "shippable",
+        "value": "true",
+        "value_label": "true"
+      },
+      {
+        "key": "is_import",
+        "value": "false",
+        "value_label": "false"
+      }
+    ],
+    "attributes_map": {
+      "profile_picture_url": "https://img.leboncoin.fr/api/v1/tenants/9a6387a1-6259-4f2c-a887-7e67f23dd4cb/domains/20bda58f-d650-462e-a72a-a5a7ecf2bf88/buckets/21d2b0bc-e54c-4b64-a30b-89127b18b785/images/profile/pictures/default/9d649b15-dca3-52d8-9735-edaa7db4e401?rule=pp-small",
+      "estimated_parcel_weight": "2337",
+      "estimated_parcel_size": "M",
+      "is_bundleable": "true",
+      "purchase_cta_visible": "true",
+      "negotiation_cta_visible": "true",
+      "country_isocode3166": "FR",
+      "condition": "tresbonetat",
+      "shipping_type": "mondial_relay, shop2shop, colissimo, face_to_face",
+      "shippable": "true",
+      "is_import": "false"
+    },
+    "real_estate_type": null,
+    "surface_m2": null,
+    "rooms": null,
+    "bedrooms": null,
+    "energy_rate": null,
+    "ges": null,
+    "vehicle_brand": null,
+    "vehicle_model": null,
+    "mileage": null,
+    "fuel": null,
+    "gearbox": null,
+    "registration_year": null,
+    "urgency_level": 0,
+    "is_boosted": true,
+    "status": "active",
+    "search_text": "vélo",
+    "search_location": null,
+    "page_number": 1,
+    "source": "searchData.ads",
+    "parse_confidence": 1,
+    "warnings": [],
+    "scraped_at": "2026-06-11T16:54:05.553712+00:00"
+  }
+]
